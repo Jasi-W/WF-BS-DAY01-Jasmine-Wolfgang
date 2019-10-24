@@ -1,0 +1,15 @@
+
+.box {
+	width: 80%;
+	background-color: white;
+	padding: 10px;
+	border: 1px solid red;
+	
+}
+
+.row {
+	background-color: red;
+	margin: 10px 0;
+	padding: 10px;
+	text-align: center;
+}

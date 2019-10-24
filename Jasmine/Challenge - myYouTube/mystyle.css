@@ -1,0 +1,12 @@
+
+.box {
+	width: 150px;
+	height: 150px;
+	background-color: indianred;
+}
+
+header {
+	background-color: indianred;
+	color: white;
+	padding: 20px;
+}
